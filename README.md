@@ -1,4 +1,4 @@
-# Olympic-Dashboard
+# Olympic Dashboard
 
 ## Overview:
 
