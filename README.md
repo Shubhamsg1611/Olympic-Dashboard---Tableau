@@ -1,4 +1,5 @@
 # Olympic Dashboard
+![](https://www.datascienceportfol.io/static/profile_pics/pr21_5CAAE6F6C90FBE99B764.jpg)
 
 ## Overview:
 
